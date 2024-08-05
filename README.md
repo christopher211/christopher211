@@ -20,14 +20,6 @@
 <br />
 <div>
   <h3 style="font-weight: bold;">How can I believe that you are good at what you do? 🤷‍♂️</h3>
-  <ul>
-    <li>In my recent Coding Bootcamp of University of Minnesota, all of my cohort said that I'm a coding wizard 🤣.</li>
-    <li>Also, during my work, I was involved in the development of 2 applications.</li>
-    <ul>
-      <li> The first one is the app called <a href="https://apps.apple.com/us/app/pinnio/id1587472866">Pinnio</a> - which can find or create a pin that represent a lost item, or some one has the same hobbies, or want to promote your bussiness.</li>
-      <li> The other one is <a href="https://apps.apple.com/us/app/summa-systems/id1588216433">Summa Systems</a> that can control your light device in your house, turn your house into smart home.</li>
-    </ul>
-  </ul>
 </div>
 <br />
 <h2 style="font-weight: bold;">Contact Me 📞</h2>
